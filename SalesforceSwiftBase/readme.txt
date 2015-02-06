@@ -1,4 +1,4 @@
-This app was created from the SalesforceMobileSDK Native Rest App template, then tweaked by @quinton to provide swift-briding
+This app was created from the SalesforceMobileSDK Native Rest App template, then tweaked by @quinton to provide swift-bridging
 
 
 The login host can be configured in system Settings on the device:
